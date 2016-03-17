@@ -6,37 +6,43 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T23:28:09.541Z'
-dateModified: '2016-03-17T23:28:02.303Z'
-title: 'Our Vision & Values'
+datePublished: '2016-03-17T23:39:32.747Z'
+dateModified: '2016-03-17T23:39:15.725Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-03-17-our-vision-and-values.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-our-vision-and-values.md
-published: true
 url: our-vision-and-values/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18325b2-4218-49ec-a656-8820501f3f73.jpg)
+
+# 
+
 # Our Vision & Values
 
 ## Who we are 
 
-We are a group of highly creative and innovative individuals come together to passionately and relentlessly pursue our customers success through the delivery of unique approaches and methods to solving their hard problems and fueled by an unending desire to make the world a better place for all.
-
-> Our passion is helping organizations pivot around problems and turn them into opportunities through the creation of transformative technology that enables businesses to achieve new levels of efficiencies and insights. 
+We are a group of highly creative and innovative individuals come together to passionately and relentlessly pursue our customer's success. 
+> 
+> Our passion is helping organizations pivot around problems and turn them into opportunities
 
 The inspiration for our name "Pulley Labs" comes from the fact that a pulley is an incredibly simple machine (we believe in simple over complex) that is essentially a fulcrum or pivot point that substantially changes the mechanics of moving an object. 
+> 
+> We facilitate the creation of transformative technology or approaches that enable businesses to achieve new levels of efficiencies and scale. 
 
-While our solutions include consulting and technology, ultimately we're focused around enabling change and being a simple but powerful force that makes that possible! 
+Through the application of unique approaches and methods to solving problems, inspired by lessons learned through cumulative decades of failing fast, and fueled by an unending desire to make the world a better place for all, we enable our customer's to succeed.
 
 ## What we believe in 
 
-**Always be transparent** - Every customer is a reference, good or bad.  
+* **Always be transparent** - Every customer is a reference, good or bad.  
 **Always do better** - Analyze ways to better achieve our customer's success through every engagement.  
 **Always do the right thing** - For our customers, our team, our world.  
 **Always deliver quality** - Our work product is a representation of self and we constantly strive to improve ourselves by increasing the quality of what we deliver.
