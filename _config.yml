@@ -1,0 +1,28 @@
+name: PulleyLabs
+favicon: null
+layout_spectrum: 0.9186448447871953
+typography_spectrum: 0.10441790986806154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8712966747116297
+  lightness: 0.4255393035709858
+  saturation: 0.6737864299211651
+  rhythmicContrast: 0.412814759882167
+purpose: []
