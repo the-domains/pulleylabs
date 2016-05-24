@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Hi. We're Pulley Labs, a small high-tech company that focuses on enabling growth at scale within our venture client's portfolio companies."
-datePublished: '2016-05-24T20:48:07.321Z'
-dateModified: '2016-05-24T20:48:04.646Z'
-title: Welcome to PulleyLabs
+datePublished: '2016-05-24T20:49:33.198Z'
+dateModified: '2016-05-24T20:49:07.668Z'
+title: About PulleyLabs
 author: []
 sourcePath: _posts/2016-03-17-welcome-to-pulleylabs.md
 authors: []
@@ -19,7 +19,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3248d921-cab0-4519-bd42-c2c3b0961cd0.jpg)
 
-# Welcome to PulleyLabs
+# About PulleyLabs
 
 Hi. We're Pulley Labs, a small high-tech company that focuses on enabling growth at scale within our venture client's portfolio companies.
 
