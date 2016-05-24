@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Hi. We're Pulley Labs, a small high-tech company that focuses on enabling growth at scale within our\_venture\_client's portfolio companies."
-datePublished: '2016-03-17T23:18:53.270Z'
-dateModified: '2016-03-17T23:18:00.891Z'
+description: "Hi. We're Pulley Labs, a small high-tech company that focuses on enabling growth at scale within our venture client's portfolio companies."
+datePublished: '2016-05-24T20:48:07.321Z'
+dateModified: '2016-05-24T20:48:04.646Z'
 title: Welcome to PulleyLabs
 author: []
 sourcePath: _posts/2016-03-17-welcome-to-pulleylabs.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: welcome-to-pulleylabs/index.html
 _type: Article
 
